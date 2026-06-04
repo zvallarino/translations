@@ -1,0 +1,37 @@
+# Virtual environment
+myenv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Model files
+*.bin
+*.pt
+*.pth
+*.pkl
+*.onnx
+*.safetensors
+
+# Excel files
+*.xlsx
+*.xls
+
+# JSON files
+*.json
+
+# CSV / output files
+*.csv
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Env files
+.env
+.env.*
